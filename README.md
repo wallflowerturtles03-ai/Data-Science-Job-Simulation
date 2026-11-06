@@ -40,10 +40,4 @@ This project uses the Python data science ecosystem, including:
 4. Model development
 5. Evaluation and interpretation
 
-## Getting Started
 
-Clone the repository:
-
-```bash
-git clone https://github.com/wallflowerturtles03-ai/Data-Science-Job-Simulation.git
-cd Data-Science-Job-Simulation
